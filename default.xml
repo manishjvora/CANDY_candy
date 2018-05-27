@@ -51,11 +51,14 @@
   <project path="candy" name="CandyRoms/candy" remote="candy" />
   <project path="device/qcom/common" name="CandyRoms/device_qcom_common" remote="candy" />
   <project path="device/qcom/sepolicy" name="CandyRoms/device_qcom_sepolicy" remote="candy" />
+  <project path="external/aac" name="CandyRoms/external_aac" groups="pdk" remote="candy" />
   <project path="external/DUtils" name="CandyRoms/external_DUtils" remote="candy" />
   <project path="external/jhead" name="CandyRoms/external_jhead" remote="candy" />
   <project path="external/libgdx" name="CandyRoms/external_libgdx" remote="candy" />
+  <project path="external/sonivox" name="CandyRoms/external_sonivox" remote="candy" />
   <project path="frameworks/av" name="CandyRoms/frameworks_av" groups="pdk" remote="candy" />
   <project path="frameworks/base" name="CandyRoms/frameworks_base" remote="candy" />
+  <project path="frameworks/ex" name="CandyRoms/frameworks_ex" groups="pdk" remote="candy" />
   <project path="frameworks/native" name="CandyRoms/frameworks_native" remote="candy" />
   <project path="frameworks/opt/net/wifi" name="CandyRoms/frameworks_opt_net_wifi" remote="candy" />
   <project path="hardware/broadcom/wlan" name="CandyRoms/hardware_broadcom_wlan" groups="pdk,broadcom_wlan" remote="candy" />
@@ -220,7 +223,6 @@
   <project path="external/f2fs-tools" name="SlimRoms/android_external_f2fs-tools" remote="slim" />
   <project path="external/libavc" name="SlimRoms/android_external_libavc" remote="slim" />
   <project path="external/libhevc" name="SlimRoms/android_external_libhevc" remote="slim" />
-  <project path="external/sonivox" name="SlimRoms/android_external_sonivox" remote="slim" />
   <project path="external/sqlite" name="SlimRoms/android_external_sqlite" remote="slim" />
   <project path="external/tinyalsa" name="SlimRoms/android_external_tinyalsa" remote="slim" />
   <project path="external/tremolo" name="SlimRoms/android_external_tremolo" remote="slim" />
@@ -246,7 +248,6 @@
   <project path="development" name="platform/development" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="device/google/contexthub" name="device/google/contexthub" groups="device" remote="aosp" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/aac" name="platform/external/aac" groups="pdk" remote="aosp" />
   <project path="external/adt-infra" name="platform/external/adt-infra" groups="adt-infra,notdefault" remote="aosp" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/androidplot" name="platform/external/androidplot" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
@@ -469,7 +470,6 @@
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" remote="aosp" />
-  <project path="frameworks/ex" name="platform/frameworks/ex" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" groups="pdk-fs" remote="aosp" />
