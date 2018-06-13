@@ -54,6 +54,7 @@
   <project path="external/aac" name="CandyRoms/external_aac" groups="pdk" remote="candy" />
   <project path="external/DUtils" name="CandyRoms/external_DUtils" remote="candy" />
   <project path="external/jhead" name="CandyRoms/external_jhead" remote="candy" />
+  <project path="external/libavc" name="CandyRoms/external_libavc" remote="candy" />
   <project path="external/libgdx" name="CandyRoms/external_libgdx" remote="candy" />
   <project path="external/sonivox" name="CandyRoms/external_sonivox" remote="candy" />
   <project path="frameworks/av" name="CandyRoms/frameworks_av" groups="pdk" remote="candy" />
@@ -221,7 +222,6 @@
 
   <!-- Slim -->
   <project path="external/f2fs-tools" name="SlimRoms/android_external_f2fs-tools" remote="slim" />
-  <project path="external/libavc" name="SlimRoms/android_external_libavc" remote="slim" />
   <project path="external/libhevc" name="SlimRoms/android_external_libhevc" remote="slim" />
   <project path="external/sqlite" name="SlimRoms/android_external_sqlite" remote="slim" />
   <project path="external/tinyalsa" name="SlimRoms/android_external_tinyalsa" remote="slim" />
