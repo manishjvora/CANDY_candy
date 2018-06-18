@@ -56,7 +56,7 @@
   <project path="external/jhead" name="CandyRoms/external_jhead" remote="candy" />
   <project path="external/libavc" name="CandyRoms/external_libavc" remote="candy" />
   <project path="external/libgdx" name="CandyRoms/external_libgdx" remote="candy" />
-  <project path="external/libmpeg2" name="CandyRoms/externallibmpeg2" groups="pdk" remote="candy" />
+  <project path="external/libmpeg2" name="CandyRoms/external_libmpeg2" groups="pdk" remote="candy" />
   <project path="external/libhevc" name="CandyRoms/external_libhevc" remote="candy" />
   <project path="external/sonivox" name="CandyRoms/external_sonivox" remote="candy" />
   <project path="frameworks/av" name="CandyRoms/frameworks_av" groups="pdk" remote="candy" />
