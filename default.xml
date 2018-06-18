@@ -56,6 +56,7 @@
   <project path="external/jhead" name="CandyRoms/external_jhead" remote="candy" />
   <project path="external/libavc" name="CandyRoms/external_libavc" remote="candy" />
   <project path="external/libgdx" name="CandyRoms/external_libgdx" remote="candy" />
+  <project path="external/libmpeg2" name="CandyRoms/externallibmpeg2" groups="pdk" remote="candy" />
   <project path="external/sonivox" name="CandyRoms/external_sonivox" remote="candy" />
   <project path="frameworks/av" name="CandyRoms/frameworks_av" groups="pdk" remote="candy" />
   <project path="frameworks/base" name="CandyRoms/frameworks_base" remote="candy" />
@@ -364,7 +365,6 @@
   <project path="external/libjpeg-turbo" name="platform/external/libjpeg-turbo" groups="pdk" remote="aosp" />
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" remote="aosp" />
   <project path="external/libmicrohttpd" name="platform/external/libmicrohttpd" remote="aosp" />
-  <project path="external/libmpeg2" name="platform/external/libmpeg2" groups="pdk" remote="aosp" />
   <project path="external/libmtp" name="platform/external/libmtp" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libnl" name="platform/external/libnl" groups="pdk" remote="aosp" />
   <project path="external/libogg" name="platform/external/libogg" groups="pdk" remote="aosp" />
