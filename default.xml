@@ -114,6 +114,7 @@
   <project path="external/boringssl" name="LineageOS/android_external_boringssl" groups="pdk" remote="los" />
   <project path="external/apache-http" name="LineageOS/android_external_apache-http" groups="pdk" remote="los" />
   <project path="external/bash" name="LineageOS/android_external_bash" remote="los" />
+  <project path="external/bouncycastle" name="LineageOS/android_external_bouncycastle" remote="los" />
   <project path="external/brctl" name="LineageOS/android_external_brctl" remote="los" />
   <project path="external/connectivity" name="LineageOS/android_external_connectivity" remote="los" />
   <project path="external/e2fsprogs" name="LineageOS/android_external_e2fsprogs" groups="pdk" remote="los" />
@@ -263,7 +264,6 @@
   <project path="external/avahi" name="platform/external/avahi" remote="aosp" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" remote="aosp" />
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/bouncycastle" name="platform/external/bouncycastle" groups="pdk" remote="aosp" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" remote="aosp" />
   <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" remote="aosp" />
   <project path="external/c-ares" name="platform/external/c-ares" remote="aosp" />
