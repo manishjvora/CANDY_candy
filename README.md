@@ -14,13 +14,13 @@ which hardware base your phone is working.
 To initialize your local repository using the Candy7.1.2 trees, use this command:
 
 
-	repo init -u git://github.com/CandyRoms/candy.git -b c7.1.2
+	repo init -u git://github.com/manishjvora/CANDY_candy.git -b c7.1.2 --depth=1 --groups=all,-darwin,-x86,-mips,-exynos5
 
 
 
 Then sync up with this command:
 
-	repo sync
+	repo sync -c -f --force-sync --no-clone-bundle
 
 To start your build run this command:
 
