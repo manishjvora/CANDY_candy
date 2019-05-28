@@ -103,7 +103,7 @@
   <project path="system/core" name="CandyRoms/system_core" remote="candy" />
   <project path="system/extras" name="CandyRoms/system_extras" remote="candy" />
   <project path="system/keymaster" name="CandyRoms/system_keymaster" groups="pdk" remote="candy" />
-  <project path="system/sepolicy" name="CandyRoms/system_sepolicy" remote="candy" />
+  <project path="system/sepolicy" name="CANDY_system_sepolicy" remote="mv" />
   <project path="system/vold" name="CANDY_system_vold" remote="mv" />
   <project path="Scripts" name="CandyRoms/Scripts" remote="candy" revision="master" />
   <project path="vendor/candy" name="CANDY_vendor_candy" remote="mv" />
