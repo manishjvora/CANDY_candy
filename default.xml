@@ -99,7 +99,7 @@
   <project path="packages/providers/DownloadProvider" name="CANDY_packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" remote="mv" />
   <project path="packages/providers/UserDictionaryProvider" name="CandyRoms/packages_providers_UserDictionaryProvider" groups="pdk-cw-fs,pdk-fs" remote="candy" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="CandyRoms/aarch64-linux-android-4.9" remote="candy" />
-  <project path="system/bt" name="CANDY_system_bt" groups="pdk" remote="mv" />
+  <project path="system/bt" name="LineageOS/android_system_bt" groups="pdk" remote="los" />
   <project path="system/core" name="CandyRoms/system_core" remote="candy" />
   <project path="system/extras" name="CandyRoms/system_extras" remote="candy" />
   <project path="system/keymaster" name="CandyRoms/system_keymaster" groups="pdk" remote="candy" />
